@@ -44,3 +44,7 @@
 # 📌 后续章节
 - 五、错题难题解析（账户合并、项目管理、背包问题等）
 - 六、常用数学公式（LaTeX 格式，三角函数/组合计数/几何/数论等）
+
+# 📥 下载链接
+[Python机试开卷材料.pdf](https://github.com/Ming-Hao-Liu/python-openbook-coding-exam/blob/main/开卷材料.pdf)
+> 点击链接可在浏览器中预览 PDF，再从预览页下载到本地使用。
